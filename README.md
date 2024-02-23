@@ -1,0 +1,2 @@
+# comunnaMSG
+I learning CPP
